@@ -1,0 +1,6 @@
+[06:11:11] [91m[ ERROR (START) ][39m
+[06:11:11] TypeError: Cannot read property 'guild' of undefined
+[06:11:11] [91m[ ERROR (END) ][39m
+[06:11:11] [91m[ ERROR (START) ][39m
+[06:11:11] TypeError: Cannot read property 'catch' of undefined
+[06:11:11] [91m[ ERROR (END) ][39m
