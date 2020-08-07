@@ -12,4 +12,12 @@ Idk when but i will fastly Full release the Bot :)
 
 Next Update ? Maybe ?
 
+# LINK
+
 ### [Support Server](https://discord.gg/GCyF49m "Support Server")
+
+### [Bot Website](https://hype-bot.carrd.co/ "Website")
+
+### [GitHub](https://github.com/Enlixe/ "GitHub")
+
+### [My Website](https://enlixer.carrd.co/ "My Website")

@@ -89,3 +89,45 @@
 [06:49:05] Loaded [92mTextChannel[39m (Database)
 [06:49:05] Loaded [92mUser[39m (Database)
 [06:49:05] Logged in as [92mHype#9304[39m
+[06:49:05] [91m[ ERROR (START) ][39m
+[06:49:05] Error: Connection reset by peer
+[06:49:05] [90mEvent: error[39m
+[06:49:05] [90mShard: 0[39m
+[06:49:05] [90mLogged on: 07-08-2020 06:59:15 IST[39m
+[06:49:05] [91m[ ERROR (END) ][39m
+[06:49:05] [93m[ WARN (START) ][39m
+[06:49:05] [90mEvent: shardDisconnect[39m
+[06:49:05] [90mShard: 0[39m
+[06:49:05] [90mLogged on: 07-08-2020 06:59:15 IST[39m
+[06:49:05] [93m[ WARN (END) ][39m
+[06:49:05] [93m[ WARN (START) ][39m
+[06:49:05] All Bot shards have been Disconnected.
+[06:49:05] [90mEvent: disconnect[39m
+[06:49:05] [90mLogged on: 07-08-2020 06:59:15 IST[39m
+[06:49:05] [93m[ WARN (END) ][39m
+[06:49:05] Logged in as [92mHype#9304[39m
+[06:49:05] 1596765756661
+[06:49:05] 1596767367134
+[08:09:40] Loaded [94m32[39m Event(s)
+[08:09:40] Loaded [94m10[39m Command(s) in [94mAnime[39m
+[08:09:40] Loaded [94m6[39m Command(s) in [94mEconomy[39m
+[08:09:40] Loaded [94m2[39m Command(s) in [94mFun[39m
+[08:09:40] Loaded [94m4[39m Command(s) in [94mGames[39m
+[08:09:40] Loaded [94m4[39m Command(s) in [94mHelp[39m
+[08:09:40] Loaded [94m2[39m Command(s) in [94mLevel[39m
+[08:09:40] Loaded [94m1[39m Command(s) in [94mMisc[39m
+[08:09:40] Loaded [94m9[39m Command(s) in [94mModeration[39m
+[08:09:40] Loaded [94m2[39m Command(s) in [94mOwner[39m
+[08:09:40] Loaded [94m1[39m Command(s) in [94mStatistics[39m
+[08:09:40] Loaded [94m1[39m Command(s) in [94mText[39m
+[08:09:40] Loaded [94m4[39m Command(s) in [94mUtility[39m
+[08:09:40] Loaded [94m8[39m Command(s) in [94mNsfw[39m
+[08:09:40] Loaded [92mGuild[39m (Database)
+[08:09:40] Loaded [92mMember[39m (Database)
+[08:09:40] Loaded [92mModCase[39m (Database)
+[08:09:40] Loaded [92mReactionRole[39m (Database)
+[08:09:40] Loaded [92mRole[39m (Database)
+[08:09:40] Loaded [92mSettings[39m (Database)
+[08:09:40] Loaded [92mTextChannel[39m (Database)
+[08:09:40] Loaded [92mUser[39m (Database)
+[08:09:40] Logged in as [92mHype#9304[39m

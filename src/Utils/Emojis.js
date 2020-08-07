@@ -5,7 +5,7 @@
 
 module.exports = {
     tick: `<:auroratick:707142877603692585>`,
-    cross: `<:auroracross:707142936122490961>`,
+    cross: `<:auroracross:>`,
     cash: `<:auroracurrencypurple:705375263797542912>`, 
     goldCash: `<:auroracurrencygolden:705375286212034601>`,
     spinner: `<a:spinner:709969733067341845>`,
