@@ -19,3 +19,15 @@
 [06:49:05] [91m[ ERROR (START) ][39m
 [06:49:05] TypeError: Cannot read property 'catch' of undefined
 [06:49:05] [91m[ ERROR (END) ][39m
+[09:50:36] [91m[ ERROR (START) ][39m
+[09:50:36] TypeError: require(...) is not a constructor
+[09:50:36] [91m[ ERROR (END) ][39m
+[09:50:36] [91m[ ERROR (START) ][39m
+[09:50:36] TypeError: Cannot read property 'catch' of undefined
+[09:50:36] [91m[ ERROR (END) ][39m
+[09:51:19] [91m[ ERROR (START) ][39m
+[09:51:19] TypeError: Cannot read property 'catch' of undefined
+[09:51:19] [91m[ ERROR (END) ][39m
+[09:51:19] [91m[ ERROR (START) ][39m
+[09:51:19] TypeError: Cannot read property 'catch' of undefined
+[09:51:19] [91m[ ERROR (END) ][39m
